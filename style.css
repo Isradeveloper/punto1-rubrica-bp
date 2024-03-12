@@ -5,3 +5,8 @@ body, html {
 .banner-principal {
   background-color: greenyellow;
 }
+
+.img-producto {
+  height: 200px;
+  object-fit: contain;
+}
