@@ -10,3 +10,8 @@ body, html {
   height: 200px;
   object-fit: contain;
 }
+
+.bg-gy {
+  background-color: greenyellow !important;
+  color: black !important;
+}
